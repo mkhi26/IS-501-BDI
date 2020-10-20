@@ -1,0 +1,4 @@
+Identificador de usuario	Estado de la tarea	Cantida de tareas	Total de registros del Usuario	Porcentaje
+1	completada	1	4	25.0000 %
+1	no completada	3	4	75.0000 %
+3	no completada	1	1	100.0000 %
